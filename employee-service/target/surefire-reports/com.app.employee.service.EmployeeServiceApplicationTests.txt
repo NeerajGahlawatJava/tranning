@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.app.employee.service.EmployeeServiceApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.008 s - in com.app.employee.service.EmployeeServiceApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.657 s - in com.app.employee.service.EmployeeServiceApplicationTests
